@@ -1,1 +1,7 @@
-deepak is cloning this repo file from My_GitHub_repo repository
+deepak is cloning this repo file from My_GitHub_repo repository.
+git init
+git remote -v 
+git status
+git pull origin main (origin = github url)
+git push origin main  --> to get changes from specific branch
+git fetch --> to fetch all changes from all branches
