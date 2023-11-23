@@ -8,3 +8,7 @@ git fetch --> to fetch all changes from all branches
 git add 
 git log
 git commit -m "type message here"
+git config --global user.name "deep4devops"
+git config --global user.email "deepsjadhav007@gmail.com"
+
+###########################################################
